@@ -13,3 +13,17 @@ footer {
 .socialMedia {
   text-align: center;
 }
+
+.container-md,
+.container-LG {
+  background-image: url("./images/josue-soto-bsmCBJwAbPw-unsplash.jpg");
+}
+
+.card-text,
+.card-title,
+.sm-6,
+.projectTitle,
+.card,
+.container-md {
+  color: whitesmoke;
+}
